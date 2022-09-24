@@ -36,6 +36,7 @@ aSwitch = findViewById(R.id.switch1);
 
 # App Highlight
 
-<img src="app_images/Toggle Switch Code.png" width="1000" /><br>
-
-<img src="app_images/Toggle Switch App1.png" width="300" /> <img src="app_images/Toggle Switch App2.png" width="300" /> <img src="app_images/Toggle Switch App3.png" width="300" /><br>
+![Toggle Switch App1](https://user-images.githubusercontent.com/74413402/192092770-30ee2dcd-1415-4347-b5ef-c3731cdb06ed.png)
+![Toggle Switch App2](https://user-images.githubusercontent.com/74413402/192092772-1a1c5f74-0e1f-4e8a-b99d-8d9aae49ccaa.png)
+![Toggle Switch App3](https://user-images.githubusercontent.com/74413402/192092773-ad8ae869-a750-4aca-91f6-e73f4850a75e.png)
+![Toggle Switch Code](https://user-images.githubusercontent.com/74413402/192092775-242fe4af-892d-47e6-86c0-232e172ac0ad.png)
